@@ -1,0 +1,9 @@
+{
+    "name": "WIF",
+    "symbol": "WIF",
+    "description": "This is the WIF token.",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png",
+    "attributes": [
+      { "trait_type": "Type", "value": "Meme" }
+    ]
+  }
